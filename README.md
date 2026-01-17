@@ -65,7 +65,7 @@ SELECT DISTINCT category FROM retail_sales;
 Records with missing critical values were **excluded from analysis** to ensure reliable outputs.
 
 > **Note:** In real-world business environments, missing data would typically be investigated further.  
-> For this analytical project, incomplete records were excluded to maintain consistency and accuracy.
+> For this analytical project, incomplete records (Total only 3)  were excluded to maintain consistency and accuracy.
 
 ---
 
